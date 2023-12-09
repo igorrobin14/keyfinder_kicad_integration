@@ -15,7 +15,7 @@ https://github.com/NordicPlayground/nrf5-eagle-reference-design
 *Ouvrir le projet dans KiCad et faire en sorte que le package nRF52832 soit prit en compte*
 
 ## Introduction
-Le but de cette séance de Design était de redimensionner le PCB afin qu'il corresponde à la forme modélisée sur Fusion 360, d'y intégrer un nouveau capteur et de réagencer les composants déjà présents afin de les faire rentrer sur le PCB avec sa forme et taille finale. Concernant le capteur, nous avons de le choisir, déterminer son utilité pour le produit, et enfin rechercher le capteur réel pour l'intégrer.
+Le but de cette séance de Design était de redimensionner le PCB afin qu'il corresponde à la forme modélisée sur Fusion 360, d'y intégrer un nouveau capteur et de réagencer les composants déjà présents afin de les faire rentrer sur le PCB avec sa forme et taille finale. Concernant le capteur, nous avons eu à le choisir, déterminer son utilité pour le produit, et enfin rechercher le capteur réel pour l'intégrer.
 
 ## Mise en œuvre
 
